@@ -1,0 +1,1 @@
+#First Invidual Work for Oracle Database (SQL) by UnitedTimur (c)
